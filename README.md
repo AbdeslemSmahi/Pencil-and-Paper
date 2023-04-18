@@ -35,5 +35,3 @@ However, there is always room for innovation and new twists on these classic gam
 Perhaps new variations or hybrid games that combine elements of different pencil and paper games could be developed. 
 Additionally, Implementing AI for each game would be a great way to make the games enjoyable even when we are alone. 
 AND OF COURSE SOLVE SOME BUGS.
-
-LICENCE: MIT - https://opensource.org/licenses/MIT
